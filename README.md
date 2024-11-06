@@ -1,2 +1,2 @@
-# vue3_study
+# study
 The purpose is to strengthen basic skills
